@@ -13,4 +13,4 @@ When you launch the executable file (HANEMAN) be sure that it is placed in the s
 
 *Tested only on Ubuntu 18.04.2 LTS.
 
-Thanks to nsf https://github.com/nsf for the term package, it's really useful.
+Thanks to nsf https://github.com/nsf for the termbox-go package, it's really useful.
