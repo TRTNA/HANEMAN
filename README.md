@@ -12,3 +12,5 @@ Move the yellow C by using the arrows and run away from the ghosts (&), unless y
 When you launch the executable file (HANEMAN) be sure that it is placed in the same directory of "theme.mp3", "tab" and "title".
 
 *Tested only on Ubuntu 18.04.2 LTS.
+
+Thanks to nsf https://github.com/nsf for the term package, it's really useful.
